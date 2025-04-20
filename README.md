@@ -1,4 +1,4 @@
-# Ethical Open Source Job Hunting
+# Open Source Job Hunting
 
 > *"I don't just want a job. I want to build things that matter, with people who care."*
 
@@ -32,4 +32,29 @@ Fields I engage with: **infra**, **open science**, **climate**, **public health*
 | OpenMRS             | Public Health   | Global health infrastructure          |
 | Rust Foundation     | Infrastructure  | Empowering Rust ecosystem             |
 
+## Project Structure
 
+```
+.
+├── companies
+│   └── bioinformatics
+│       └── bioconductor.md
+├── contributions
+│   └── 2025-04-21_bioconductor-setup.md
+├── LICENSE
+├── README.md
+├── templates
+│   ├── company-profile.md
+│   ├── contribution-log.md
+│   └── outreach.md
+└── tracking.md
+```
+
+## How to Use This
+
+- Pick an org then fill out a profile using `templates/company-profile.md`
+- Contribute then document it using `templates/contribution-log.md`
+- Track your status in `tracking.md`
+- Reach out when you've built value and trust
+
+Let your open-source work **speak for you**.
